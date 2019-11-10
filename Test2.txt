@@ -1,2 +1,3 @@
 second file
 adding line
+adding new line 
